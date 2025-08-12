@@ -1,13 +1,13 @@
 # Servo-Tasks
 This project contains two main tasks:
 ## Task 1: Servo Motor Programming
-This project show how to control six micro servo motors simultaneously using an Arduino UNO.
+The project shows how to control six micro servo motors simultaneously using an ArduinoUNO.
 The servos are programmed to move together in a sweeping motion and then rest at a fixed position.
 
 
 **The components Used**
 1. ArduinonUNO
-2. 6 Micro Servo Moters
+2. 6 Micro Servo Motors
 3. Breadboard
 4. Wires
 
